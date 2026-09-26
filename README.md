@@ -23,8 +23,3 @@
 * **Networking & APIs:** REST APIs, Dio, HTTP
 * **Backend & Cloud:** Firebase, Supabase
 * **Version Control:** Git, GitHub
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haithammahmoudDev&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="Haitham's GitHub Stats" />
-</p>
