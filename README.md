@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Haitham Mahmoud Yassin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%92%99;Clean+Architecture+%7C+BLoC+%2F+Cubit;E-Commerce+Apps+Builder+%F0%9F%9B%92;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%92%99" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -60,17 +60,21 @@ I'm a Flutter developer focused on building production-grade, cross-platform e-c
 
 ### 📌 Featured Projects
 
-<!--
-Add your top 2-3 projects here. Example format below — replace with real repos.
--->
-
-**🛒 E-Commerce Store & Admin Panel**
-Cross-platform e-commerce solution built with Flutter, featuring a customer store app and a companion admin dashboard, powered by Firebase/Supabase and following Clean Architecture with BLoC.
+**🛒 E-Commerce App**
+Customer-facing store app built with Flutter, featuring product browsing, cart, and checkout flows powered by Firebase/Supabase and Clean Architecture with BLoC.
 `Flutter` `Dart` `BLoC` `Hive` `Firebase`
 
-**📱 [Project Name]**
-Short one-line description of what it does and the problem it solves.
-`Flutter` `Dart` `Provider`
+**🛠️ Admin Panel**
+Companion admin dashboard for managing products, orders, and users across the e-commerce ecosystem.
+`Flutter` `Dart` `BLoC` `Firebase`
+
+**📰 News App**
+News application with category browsing, search, and real-time content updates.
+`Flutter` `Dart` `Cubit` `REST API`
+
+**💬 Chat App**
+Real-time chat application with messaging, user presence, and media sharing.
+`Flutter` `Dart` `Firebase` `Provider`
 
 ---
 
