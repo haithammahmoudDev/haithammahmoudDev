@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%92%99" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=02569B&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=02569B" alt="Followers" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
