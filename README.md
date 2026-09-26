@@ -25,7 +25,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
 ---
 
