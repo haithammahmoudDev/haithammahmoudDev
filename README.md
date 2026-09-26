@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Haitham Mahmoud Yassin</h1>
+<h3 align="center">Junior Flutter Developer 🚀 | Mobile App Enthusiast</h3>
 
-<!--
-**haithammahmoudDev/haithammahmoudDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me:
+* 🔭 I’m currently building advanced e-commerce cross-platform applications (Store & Admin Panel).
+* 💡 Passionate about clean architecture, BLoC/Cubit state management, and efficient local caching using Hive.
+* 🌱 Always striving to write clean, scalable, and maintainable code.
+
+### 🛠️ Tech Stack & Tools:
+* **Mobile Framework:** Flutter, Dart
+* **State Management:** BLoC, Cubit, Provider
+* **Local Storage:** Hive, Shared Preferences
+* **Networking & APIs:** REST APIs, Dio, HTTP
+* **Backend & Cloud:** Firebase, Supabase
+* **Version Control:** Git, GitHub
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haithammahmoudDev&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="Haitham's GitHub Stats" />
+</p>
