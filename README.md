@@ -24,9 +24,6 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://wa.me/YOUR-PHONE-NUMBER">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -44,7 +41,6 @@ I'm a Flutter developer focused on building production-grade, cross-platform e-c
 - 💡 **Focused on:** Clean Architecture, BLoC/Cubit state management, and efficient local caching with Hive
 - 🌱 **Always improving:** Writing scalable, testable, and maintainable code
 - 🤝 **Open to:** Junior/Mid Flutter roles and collaborative open-source projects
-- 📫 **Reach me at:** your.email@example.com
 
 ---
 
@@ -75,6 +71,8 @@ Cross-platform e-commerce solution built with Flutter, featuring a customer stor
 **📱 [Project Name]**
 Short one-line description of what it does and the problem it solves.
 `Flutter` `Dart` `Provider`
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
