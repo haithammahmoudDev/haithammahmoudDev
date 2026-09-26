@@ -64,11 +64,11 @@ Companion admin dashboard for managing products, orders, and users across the e-
 
 **📰 News App**
 News application with category browsing, search, and real-time content updates.
-`Flutter` `Dart` `Cubit` `REST API`
+`Flutter` `Dart` `Cubit` `REST API` `Dio`
 
 **💬 Chat App**
 Real-time chat application with messaging, user presence, and media sharing.
-`Flutter` `Dart` `Firebase` `Provider`
+`Flutter` `Dart` `Firebase` `Cubit`
 
 ---
 
