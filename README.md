@@ -76,26 +76,6 @@ Cross-platform e-commerce solution built with Flutter, featuring a customer stor
 Short one-line description of what it does and the problem it solves.
 `Flutter` `Dart` `Provider`
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&column=3&margin-w=10&margin-h=10" alt="Trophies" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 </p>
